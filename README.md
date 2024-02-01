@@ -1,3 +1,5 @@
+![logo](https://github.com/Irshadp556/Irshadp556-/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Irshad</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
